@@ -46,7 +46,7 @@ git checkout -t [origin/dev-front]
 6. 브랜치 생성
 
 ```
-git checkout -b [feature/login]
+git checkout -b [login]
 ```
 
 <br/>
@@ -54,7 +54,7 @@ git checkout -b [feature/login]
 7. 브랜치 삭제
 
 ```
-git branch -D [feature/login]
+git branch -D [login]
 ```
 
 <br/>
@@ -62,7 +62,7 @@ git branch -D [feature/login]
 8. 병합
 
 ```
-git merge [feature/login]
+git merge [login]
 ```
 
 <br/>
